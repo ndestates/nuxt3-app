@@ -1,0 +1,1 @@
+<template><p>This is our main page</p></template>

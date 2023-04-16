@@ -1,0 +1,1 @@
+<template><p>This is a dynamic posts page route {{ $route.params.id }}</p></template>
